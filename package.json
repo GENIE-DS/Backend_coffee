@@ -1,0 +1,25 @@
+{
+  "name": "backend_coffee",
+  "version": "1.0.0",
+  "description": "learning backend from chai , vid 7 onwards",
+  "keywords": [
+    "javascript",
+    "chai",
+    "backend"
+  ],
+  "homepage": "https://github.com/GENIE-DS/Backend_coffee#readme",
+  "bugs": {
+    "url": "https://github.com/GENIE-DS/Backend_coffee/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GENIE-DS/Backend_coffee.git"
+  },
+  "license": "ISC",
+  "author": "Deepak",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
